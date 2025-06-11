@@ -3,7 +3,7 @@
 
 Project Overview
 
-This project is a Responsive Personal Portfolio Website designed to showcase my skills, projects, and interests in web development. The website is built with *
+This project is a Responsive Personal Portfolio Website designed to showcase my skills, projects, and interests in web development. The website is built with
 HTML, CSS, and JavaScript, ensuring a visually appealing and interactive user experience. It meets the DiV Tech Accelerator Program requirements, focusing on responsiveness, interactivity, and accessibility.
 
 Features
