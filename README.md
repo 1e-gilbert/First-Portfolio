@@ -19,8 +19,7 @@ Technologies Used
 
 - HTML5 – For semantic structuring of content.
 - CSS3– For styling, including media queries for responsiveness.
-
-JavaScript– For dynamic interactivity.
+- JavaScript– For dynamic interactivity.
 
 
 Installation & Setup
@@ -40,9 +39,9 @@ To run this project locally, follow these steps:
 
 Live Demo
 
-Check out  portfolio here: https://github.com/1e-gilbert/First-Portfolio.git
-
- Contribution
+Check out  portfolio here: https://1e-gilbert.github.io/First-Portfolio/
+ 
+Contribution
 
 If you'd like to contribute:
 
